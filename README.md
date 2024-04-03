@@ -1,2 +1,1 @@
-# CSE-110
-Course submissions and contents for my CSE 110.
+# Bernico Jansen Chandra's User Page
