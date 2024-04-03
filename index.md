@@ -1,5 +1,10 @@
 # Bernico's User Page
 
+## Contents
+- [About Me]()
+- [My CS Profile]()
+- [Hobbies]()
+
 ## About Me
 ![Photo](https://github.com/BernicoJC/CSE-110/assets/108056736/7189bdd3-5886-437b-bb7b-7a3a83585847)
 Hi! My name is **Bernico**, and I am a **_second year_ CS Major at UCSD**. I came from Indonesia, and the way to pronounce my name is more akin to _bear-nee-koh_ ~~and almost no one here pronounced it correctly at first~~ .
