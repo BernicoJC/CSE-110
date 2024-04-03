@@ -64,6 +64,4 @@ Other than that, I also like:
 4. Cooking
 
 Here is a **link** to my [Steam Profile](https://steamcommunity.com/id/Sharkron/), if you would like to add me as friend!
-
-## Other Picture
-I have another funny picture I've put in this Github repo for the fun of it. You can find it here.
+[Here is my favorite drawing that I've made.](MagnezoneElectroBall-min.png)
