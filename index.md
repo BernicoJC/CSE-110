@@ -23,6 +23,7 @@ Nice to meet you!
 ## My CS Profile
 
 As you have probably known, my github account is [this](https://github.com/BernicoJC), where I showcase some of the projects I've done over the years.
+[Here is the README.md of this repo.](README.md)
 
 ### "Weird" coding stuffs I do
 For some reason I really like to do these habits, even though they might be very problematic. As such, I would like to dedicate this space as a task list of (probably) bad habits and which of them I do.
@@ -64,4 +65,3 @@ Other than that, I also like:
 4. Cooking
 
 Here is a **link** to my [Steam Profile](https://steamcommunity.com/id/Sharkron/), if you would like to add me as friend!
-[Here is my favorite drawing that I've made.](MagnezoneElectroBall-min.png)
