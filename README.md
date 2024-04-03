@@ -1,1 +1,2 @@
-# CSE-110
+# Bernico's User Page
+My favorite programming language is Python.
