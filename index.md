@@ -1,9 +1,9 @@
 # Bernico's User Page
 
 ## Contents
-- [About Me]()
-- [My CS Profile]()
-- [Hobbies]()
+- [About Me](#about-me)
+- [My CS Profile](#about-me)
+- [Hobbies](#hobbies)
 
 ## About Me
 ![Photo](https://github.com/BernicoJC/CSE-110/assets/108056736/7189bdd3-5886-437b-bb7b-7a3a83585847)
