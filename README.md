@@ -1,1 +1,1 @@
-# Bernico Jansen Chandra's User Page
+# CSE-110
